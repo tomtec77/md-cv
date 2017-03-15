@@ -21,42 +21,42 @@ Data Scientist en Globant.
 
 ## Experiencia Laboral
 
-`04/2016-`
+`2016-`
 __Globant__ <br>
 Senior Data Scientist, Big Data Studio
 
-`07/2014-03/2016`
+`2014-2016`
 __Globant__ <br>
 Data Scientist, Big Data Studio
 
-`03/2012-03/2014`
+`2012-2014`
 __Pontificia Universidad Católica de Chile__ <br>
 Investigador Postdoctoral, Departamento de Astronomía y Astrofísica y Centro de Astroingeniería UC
 
-`04/2011-02/2012`
+`2011-2012`
 __Consejo Nacional de Investigaciones Científicas y Técnicas__ <br>
 Becario Postdoctoral, Instituto de Astronomía y Física del Espacio (IAFE)
 
 
 ## Experiencia Docente
 
-`12/2016-` 
+`2016-` 
 __Escuela Argentina de Nuevas Tecnologías (EANT)__ <br>
 Instructor, Escuela de Ciencias de Datos
 
-`04/2009-03/2012`
+`2009-2012`
 __Universidad de Buenos Aires__ <br>
 Ayudante de Primera, Departamento V (Física), Ciclo Básico Común
 
-`02/2008-03/2008`
+`2008`
 __Universidad de Buenos Aires__ <br>
 Ayudante de Primera, Departamento de Física, Facultad de Ciencias Exactas y Naturales
 
-`08/2003-03/2006`
+`2003-2006`
 __Universidad de Buenos Aires__ <br>
 Ayudante de Segunda, Departamento de Física, Facultad de Ciencias Exactas y Naturales
 
-`04/2001-08/2004`
+`2001-2004`
 __Universidad de Buenos Aires__ <br>
 Ayudante de Segunda, Departamento V (Física), Ciclo Básico Común
 
@@ -153,31 +153,54 @@ __Tecce T. E.__, Pellizza L. J., Piatti A. E.	"Chemical Evolution of the Galacti
 __Tecce T. E.__, Pellizza L. J., Piatti, A. E.	"Analysis of the chemical evolution of the Galactic disk via dynamical simulations of the open cluster system", _Boletín de la Asociación Argentina de Astronomía_ 48, 200-206.
 
 
-## Non-academic
+## Cursos Dictados
 
-`2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
+`2017`
+"Introduction to Data Science", curso de capacitación interno en Globant.
 
-`2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
+`2011`
+"Introducción a la programación", Unidad de Farmacocinética Clínica, Hospital de Pediatría "Juan P. Garrahan"", Ciudad de Buenos Aires, Argentina.
 
 
 ## Presentaciones
 
 ### Charlas
 
+`2016`
+"Introducción a Data Science", clases invitadas en la _Maestría en Tecnología Informática y de Comunicaciones_ (TIC) y en la _Maestría en Dirección Estratégica de la Información_ (CIO), UADE.
+
+`2015`
+"Data Science en el mundo real", _Workshop Argentino en Ciencia de Datos_, Facultad de Ciencias Exactas y Naturales, UBA.
+
+"Lecciones prácticas de Data Science en el mundo real", _III Jornadas de Cloud Computing y Big Data_, Facultad de Ingeniería, UNLP.
+
 `2013`
 "Effects of environment on galaxies: tidal versus ram pressure stripping", _INCAI 2013 Workshop: Exploring the Nature of the Evolving Universe III_, Pontificia Universidad Católica de Chile.
 
-EdinbR: The Edinburgh R usergroup (_various_)
+"Effects of environmental processes on semi-analytic galaxies: tidal and ram pressure stripping in clusters", Institute for Computational Cosmology, University of Durham, Gran Bretaña.
 
-MRC IGMM research seminars and section meetings (_various_)
+`2012`
+"Imaging simulated galaxies with dust absorption using a radiative transfer code", _New Frontiers in Relativistic and Numerical Astrophysics Workshop_, IAFE, CONICET, Buenos Aires, Argentina.
 
-`2014`
-Unravelling higher order chromatin structure (_4<sup>th</sup> Edinburgh Bioinformatics meeting_, Edinburgh, UK)
+"Observing a simulation: using SKIRT to generate images of EAGLE galaxies", Institute for Computational Cosmology, University of Durham, Gran Bretaña.
 
-blogR: pop data analysis and R for the web (_Psychology R-users_, Edinburgh, UK)
+`2011`
+"Exploring the impact of environment on the evolution of satellite galaxies", Universiteit Gent, Bélgica.
 
-<!-- Digital Economies 2014 conference (London, UK; declined) -->
+`2010`
+"Effects of environment on the properties of galaxies in clusters via ram pressure stripping", Departamento de Astronomía y Astrofísica, Pontificia Universidad Católica de Chile.
 
+`2009`
+"Formación de galaxias combinando simulaciones de _N_-cuerpos/hidrodinámicas con métodos semianalíticos", IAFE, CONICET, Buenos Aires, Argentina.
+
+"Ram pressure stripping in galaxy clusters", Astronomy Seminars, Institute for Computational Cosmology, University of Durham, Gran Bretaña.
+
+"Ram pressure stripping in galaxy clusters", MPA Cosmology Seminars, Max-Planck-Institut für Astrophysik, Garching, Alemania.
+
+`2001`
+"Fenómenos de transporte en membranas", Bender G., Lazarte A. I., __Tecce T. E.__, _XI Encuentro Nacional de Profesores de Física del Uruguay_, Durazno, Uruguay.
+
+    
 ### Posters
 
 `2013`
@@ -193,85 +216,55 @@ __Tecce T. E.__, Font A. S., Bower R. G., Crain R. A., Benson A. J., "Modelling 
 `2004`
 Ciocci Brazzano L., __Tecce T. E.__, Simon J. M., "Estabilidad en frecuencias de un láser de He-Ne", _89 Reunión Anual de la Asociación Física Argentina_, Bahía Blanca, Argentina.
 
-
-_Genome informatics_ (Cambridge, UK)
-
-_Chromatin: From nucleosomes to chromosomes_ (Cambridge, UK)
-
-`2013`
-_Genome informatics_ (CSHL NY, USA)
-
-_EpiGeneSys_ (Cambridge, UK)
+`2003`
+Rodríguez M., Sapoznik M., __Tecce T. E.__ Kreiner A. J., Debray M. E., Burlon A. A. y Minsky D., "Desarrollo de un dispositivo para irradiar cultivos celulares con partículas alfa'', _88 Reunión Anual de la Asociación Física Argentina_, San Carlos de Bariloche,
+Argentina.
 
 
+## Proyectos de Investigación
 
-## Technical skills
+`2017-2018`
+María Corradini, Marta Gozzi, Gonzalo Zarza, __Tomás Tecce__, Cinthia Santo Domingo, Arturo Osorio, "Data Science into Food Science", Proyecto P17T04, PID 2017 INTEC, Universidad Argentina de la Empresa.
 
+
+## Habilidades Técnicas
+
+* Física computacional
 * R
-* Statistics
-* LaTeX
-* Git / Mercurial
-* UNIX
 * Python
+* Estadística
+* LaTeX, Markdown
+* Git / SVN
+* Linux, Windows
+* SQL
 * Machine learning
-* Bash
-* Emacs
-* Inkscape
-* Data visualisation
-* Mediawiki
-* Cluster computing
-* HTML and CSS
-* Javascript
-
-## Projects
-
-### blog
-
-I write a data science blog at [blm.io](http://blm.io) where I apply R and Python to open datasets and write-up the results. My posts have been featured by sites including FiveThirtyEight, BuzzFeed, AVclub, io9 and more, and also led to being an invited blogger at the Huffington Post. My original wordpress blog ([benjaminlmoore.wordpress.com](http://benjaminlmoore.wordpress.com)) has received around 150,000 total views from 180 countries.
-
-### EdinbR
-I co-founded a usergroup for the R programming language in Edinburgh called EdinbR. I help to organise our monthly meetings and built our website: [edinbr.org](http://edinbr.org). Our meetings attract 30-50 statisticians, data scientists and developers for talks and discussion about the R language and its applications. We're sponsored by Revolution Analytics and have an organisational github account at [github.com/EdinbR](https://github.com/EdinbR).
-
-### datarea
-
-I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account.
-
-## Awards
-
-MRC Capacity building scholarship (PhD fees + enhanced stipend)
-
-MRC Full postgraduate scholarship (MSc fees + stipend)
-
-ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
-
-Imperial Create Lab's "Summer data challenge" ([summerdatachallenge.com](http://summerdatachallenge.com); 3rd place)
-
-Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014
-
-Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
-
-Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
-
-## Placements
-
-`2010-11`
-__Wellcome Trust Sanger Institute__ (_Cambridge, UK_)
-Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.org)) in the Bateman group
+* Visualización de datos
+* Big Data
+* HTML y CSS
 
 
-## Links
+## Idiomas
 
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
-*  <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Ben Moore</a><br />
-*  <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">blmoore</a>
-* <i class="fa fa-google"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">scholar</a>
+* __Español__: nativo
+* __Inglés__: avanzado
+* __Alemán__: intermedio
+* __Francés__: intermedio
+* __Italiano__: básico
 
-## References
 
-Available on request.
+## Becas
+`2009`
+Beca Max-Planck-Gesellschaft para financiar una visita de investigación de un mes al Max-Planck-Institut für Astrophysik, Garching, Alemania.
+
+`2009-2011`
+Beca de postgrado Tipo II, CONICET, Argentina.
+
+`2007`
+Beca LENAC del Programa ALFA (Unión Europea) para financiar una estadía de 3 meses en el Institute for Computational Cosmology, Department of Physics, University of Durham, Gran Bretaña.
+
+`2006-2009`
+Beca de postgrado Tipo I, CONICET, Buenos Aires, Argentina.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Ultima actualizacion marzo 2017 -->
