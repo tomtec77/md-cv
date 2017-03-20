@@ -1,6 +1,10 @@
 ---
 layout: cv
 title: Tomás E. Tecce - Curriculum Vitae
+header-includes:
+  - \usepackage{fancyhdr}
+  - \pagestyle{fancy}
+  - \fancyfoot[LE,RO]{\thepage}
 ---
 # Tomás E. Tecce
 Doctor en Física y Data Scientist
@@ -15,9 +19,15 @@ Doctor en Física y Data Scientist
 </div>
 
 
-## Currently
+## Trabajo Actual
 
-Data Scientist en Globant.
+Actualmente me desempeño como Data Scientist Senior en Globant, Buenos Aires,
+Argentina. Utilizo los métodos de la ciencia de datos (análisis estadístico,
+programación, machine learning) para desarrollar soluciones analíticas para
+empresas de diversas áreas: educación, banca e industria de la salud, entre
+otras. También estoy a cargo de dictar cursos internos de capacitación en
+ciencia de datos.
+
 
 ## Experiencia Laboral
 
@@ -65,11 +75,11 @@ Ayudante de Segunda, Departamento V (Física), Ciclo Básico Común
 
 `2011`
 __Doctorado en Ciencias Físicas__ <br>
-Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires.
+Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires
 
 `2006`
 __Licenciatura en Ciencias Físicas__ <br>
-Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires.
+Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires
 
 
 ## Especializaciones
@@ -92,7 +102,7 @@ Johns Hopkins University en Coursera, Certificado <a href="https://www.coursera.
 ### Revistas internacionales
 
 `2015`
-Ruiz A. N., Cora S. A., Padilla N. D., Domínguez M. J., Vega-Martínez C. A., __Tecce, T. E.__, Orsi A., Yaryura Y., García Lambas D., Gargiulo I. D., Muñoz Arancibia A. M.	"Calibration of Semi-analytic Models of Galaxy Formation Using Particle Swarm Optimization." _The Astrophysical Journal_ 801, article id. 139, 10 pp.
+Ruiz A. N., Cora S. A., Padilla N. D., Domínguez M. J., Vega-Martínez C. A., __Tecce, T. E.__, Orsi A., Yaryura Y., García Lambas D., Gargiulo I. D., Muñoz Arancibia A. M.	"Calibration of Semi-analytic Models of Galaxy Formation Using Particle Swarm Optimization". _The Astrophysical Journal_ 801, article id. 139, 10 pp.
 
 `2015`
 Gargiulo I. D., Cora S. A., Padilla N. D., Muñoz Arancibia A. M., Ruiz A. N., Orsi A. A., __Tecce T. E.__, Weidner C., Bruzual G. "Chemoarchaeological downsizing in a hierarchical universe: impact of a top-heavy IGIMF". _Monthly Notices of the Royal Astronomical Society_ 446, 3820-3841.
@@ -159,7 +169,7 @@ __Tecce T. E.__, Pellizza L. J., Piatti, A. E.	"Analysis of the chemical evoluti
 "Introduction to Data Science", curso de capacitación interno en Globant.
 
 `2011`
-"Introducción a la programación", Unidad de Farmacocinética Clínica, Hospital de Pediatría "Juan P. Garrahan"", Ciudad de Buenos Aires, Argentina.
+"Introducción a la programación", Unidad de Farmacocinética Clínica, Hospital de Pediatría "Juan P. Garrahan", Ciudad de Buenos Aires, Argentina.
 
 
 ## Presentaciones
@@ -264,6 +274,15 @@ Beca LENAC del Programa ALFA (Unión Europea) para financiar una estadía de 3 m
 
 `2006-2009`
 Beca de postgrado Tipo I, CONICET, Buenos Aires, Argentina.
+
+
+## Otros Intereses
+
+* Aeronáutica
+* Exploración Espacial
+* Historia de la Ciencia
+* Historia General
+* Música Clásica
 
 <!-- ### Footer
 

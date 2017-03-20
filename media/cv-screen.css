@@ -54,10 +54,12 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 80%;
+	/*font-size: 80%;*/
+	font-size: 100%;
 	line-height: 1.5em;
 	/* font-family: Verdana, sans-serif; */
-	font-family: "Open sans", sans-serif;
+	/*font-family: "Open sans", sans-serif;*/
+	font-family: "EB Garamond", serif;
 	margin-top: 1em;
 	margin-left: 1em;
 }
@@ -73,7 +75,8 @@ p {
 code {
 	font: normal normal;
 	font-size: 90%;
-	font-family: Menlo, monospace, sans-serif;
+	/*font-family: Menlo, monospace, sans-serif;*/
+	font-family: "Forum", sans-serif;
 	/*color: #aaa;*/
 }
 
@@ -107,7 +110,8 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
+	/*font-family: Cousine,Verdana,sans-serif;*/
+	font-family: "Forum", sans-serif;
 	width: 65%;
 }
 
@@ -169,7 +173,8 @@ a:hover {
 	position: relative;
   margin-left: 25%;
 	color: #aaa;
-	font-family: Menlo,monospace,sans-serif;
+	/*font-family: Menlo,monospace,sans-serif;*/
+	font-family: "Forum", sans-serif;
 	font-size: 80%;
 }
 
